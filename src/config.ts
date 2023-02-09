@@ -47,19 +47,85 @@ export default {
         width: 1280,
         height: 720
     },
+    // wearable: [
+    //     {
+    //         name: "Razor Blade Jacket",
+    //         model: "models/wearables/1.glb",
+    //         link: "https://www.flipkart.com/search?q=men%20jackets&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+    //         position: new Vector3(4.2, -0.1, 5.1),
+    //         rotation: Quaternion.Euler(0,0,0),
+    //         scale: new Vector3(1.1, 1.1, 1.1)
+    //     },
+    //     {
+    //         name: "DCL Logo Hoddie",
+    //         model: "models/wearables/2.glb",
+    //         link: "https://market.decentraland.org/",
+    //         position: new Vector3(-4.2, -0.1, 5.1),
+    //         rotation: Quaternion.Euler(0, 0, 0),
+    //         scale: new Vector3(1.1, 1.1, 1.1)
+    //     },
+    //     {
+    //         name: "Aviator",
+    //         model: "models/wearables/aviator/scene.gltf",
+    //         link: "https://www.flipkart.com/search?q=aviator&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+    //         position: new Vector3(5.1, 2, -3.2),
+    //         rotation: Quaternion.Euler(0, -45, 0),
+    //         scale: new Vector3(0.4,0.4,0.4)
+    //     },
+    //     {
+    //         name: "Over9000", 
+    //         model: "models/wearables/4.glb",
+    //         link: "https://market.decentraland.org/",
+    //         position: new Vector3(-5.1, -1, -3.3),
+    //         rotation: Quaternion.Euler(0, 90, 0),
+    //         scale: new Vector3(1.1, 1.1, 1.1)
+    //     },
+    //     {
+    //         name: "Women Dress",
+    //         model: "models/wearables/leather_jacket/scene.gltf",
+    //         link: "https://market.decentraland.org/",
+    //         position: new Vector3(0, 1.5, 0.7),
+    //         rotation: Quaternion.Euler(0, 0, 0),
+    //         scale: new Vector3(1.1, 1.1, 1.1)
+    //     },
+    //     {
+    //         name: "CitySneakers",
+    //         model: "models/wearables/6.glb",
+    //         link: "https://market.decentraland.org/",
+    //         position: new Vector3(1, 0.7, -0.7),
+    //         rotation: Quaternion.Euler(0, 45, 0),
+    //         scale: new Vector3(1.1, 1.1, 1.1)
+    //     },
+    //     {
+    //         name: "Rollers",
+    //         model: "models/wearables/7.glb",
+    //         link: "https://market.decentraland.org/",
+    //         position: new Vector3(-1, 0.7, -0.7),
+    //         rotation: Quaternion.Euler(0, -45, 0),
+    //         scale: new Vector3(1.1, 1.1, 1.1)
+    //     },
+    //     {
+    //         name: "Suit",
+    //         model:"models/wearables/mens_two_piece_suit/scene.gltf",
+    //         link: "https://www.flipkart.com/search?q=men%20suit&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+    //         position:new Vector3(-4.93,0.5,0.14),
+    //         rotation : Quaternion.Euler(0,90,0),
+    //         scale: new Vector3(1.1, 1.1, 1.1)
+    //     },
+    // ]
     wearable: [
         {
             name: "Razor Blade Jacket",
             model: "models/wearables/1.glb",
-            link: "https://www.flipkart.com/search?q=men%20jackets&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+            link: "https://metacommerce.onrender.com/product/63e1b40c29ffe23cb8f5b46c",
             position: new Vector3(4.2, -0.1, 5.1),
             rotation: Quaternion.Euler(0,0,0),
             scale: new Vector3(1.1, 1.1, 1.1)
         },
         {
-            name: "DCL Logo Hoddie",
+            name: "Men's Hoddie",
             model: "models/wearables/2.glb",
-            link: "https://market.decentraland.org/",
+            link: "https://metacommerce.onrender.com/product/63e1b46029ffe23cb8f5b46d",
             position: new Vector3(-4.2, -0.1, 5.1),
             rotation: Quaternion.Euler(0, 0, 0),
             scale: new Vector3(1.1, 1.1, 1.1)
@@ -67,7 +133,7 @@ export default {
         {
             name: "Aviator",
             model: "models/wearables/aviator/scene.gltf",
-            link: "https://www.flipkart.com/search?q=aviator&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+            link: "https://metacommerce.onrender.com/product/63e1aec829ffe23cb8f5b469",
             position: new Vector3(5.1, 2, -3.2),
             rotation: Quaternion.Euler(0, -45, 0),
             scale: new Vector3(0.4,0.4,0.4)
@@ -75,7 +141,7 @@ export default {
         {
             name: "Over9000", 
             model: "models/wearables/4.glb",
-            link: "https://market.decentraland.org/",
+            link: "https://metacommerce.onrender.com/product/63e1e6f61a023ac33ea81bab",
             position: new Vector3(-5.1, -1, -3.3),
             rotation: Quaternion.Euler(0, 90, 0),
             scale: new Vector3(1.1, 1.1, 1.1)
@@ -83,7 +149,7 @@ export default {
         {
             name: "Women Dress",
             model: "models/wearables/leather_jacket/scene.gltf",
-            link: "https://market.decentraland.org/",
+            link: "https://metacommerce.onrender.com/product/63e1e5941a023ac33ea81ba9",
             position: new Vector3(0, 1.5, 0.7),
             rotation: Quaternion.Euler(0, 0, 0),
             scale: new Vector3(1.1, 1.1, 1.1)
@@ -91,7 +157,7 @@ export default {
         {
             name: "CitySneakers",
             model: "models/wearables/6.glb",
-            link: "https://market.decentraland.org/",
+            link: "https://metacommerce.onrender.com/product/63e1b01129ffe23cb8f5b46a",
             position: new Vector3(1, 0.7, -0.7),
             rotation: Quaternion.Euler(0, 45, 0),
             scale: new Vector3(1.1, 1.1, 1.1)
@@ -99,7 +165,7 @@ export default {
         {
             name: "Rollers",
             model: "models/wearables/7.glb",
-            link: "https://market.decentraland.org/",
+            link: "https://metacommerce.onrender.com/product/63e1b2a129ffe23cb8f5b46b",
             position: new Vector3(-1, 0.7, -0.7),
             rotation: Quaternion.Euler(0, -45, 0),
             scale: new Vector3(1.1, 1.1, 1.1)
@@ -107,7 +173,7 @@ export default {
         {
             name: "Suit",
             model:"models/wearables/mens_two_piece_suit/scene.gltf",
-            link: "https://www.flipkart.com/search?q=men%20suit&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+            link: "https://metacommerce.onrender.com/product/63e1e6311a023ac33ea81baa",
             position:new Vector3(-4.93,0.5,0.14),
             rotation : Quaternion.Euler(0,90,0),
             scale: new Vector3(1.1, 1.1, 1.1)
